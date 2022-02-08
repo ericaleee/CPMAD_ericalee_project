@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063142893369",
+    "project_id": "eg3703proj",
+    "storage_bucket": "eg3703proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063142893369:android:ac98a4e4104bedeb94aae8",
+        "android_client_info": {
+          "package_name": "com.example.m2_ericalee_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063142893369-nbooib9l1o9qq5vufn3a73g5mvr7vqi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0t7kqrByxrtVqfQCnmKtJFlDf2txegU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063142893369-nbooib9l1o9qq5vufn3a73g5mvr7vqi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
